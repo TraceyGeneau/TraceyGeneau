@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm Tracey Geneau!
 
 📊 Data Enthusiast | 📈 Analysis Enthusiast | 📉 Code Explorer
 
