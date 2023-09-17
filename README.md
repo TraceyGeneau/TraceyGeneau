@@ -15,5 +15,5 @@ On my GitHub, you'll discover a growing repository of projects and code that ref
 I believe in the collaborative nature of the tech world, so don't hesitate to reach out if you share my passion or if you're interested in collaborating on exciting data-driven projects. Together, we can unlock the potential of data and make the world a more data-savvy place!
 
 📫 Contact:
-📧 Email: [Your Email Address]
-🌐 LinkedIn: [Your LinkedIn Profile]
+📧 Email: traceygeneau at gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/traceygeneau/
